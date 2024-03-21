@@ -1,0 +1,32 @@
+{
+  "name": "dolorumquos",
+  "version": "1.9.0",
+  "description": "vue-event-bus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue-bus",
+    "vue-event-bus",
+    "voluptatibus"
+  ],
+  "author": "JosefaJacobs",
+  "license": "MIT",
+  "devDependencies": {
+    "vue": "^2.5.17"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ClementOrn/dolorumquos.git"
+  },
+  "types": "types/index.d.ts",
+  "bugs": {
+    "url": "https://github.com/ClementOrn/dolorumquos.git/issues"
+  },
+  "homepage": "https://github.com/ClementOrn/dolorumquos.git",
+  "dependencies": {
+    "officiistotam": "^1.0.0",
+    "quamculpa": "^1.0.0"
+  }
+}
